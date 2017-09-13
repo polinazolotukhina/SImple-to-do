@@ -4,3 +4,12 @@
 [![Coverage Status](https://img.shields.io/coveralls/coryhouse/react-slingshot/master.svg?style=flat-square)](https://coveralls.io/github/coryhouse/react-slingshot?branch=master)
 
 # SImple-to-do
+
+
+**Clone the project**. git clone https://github.com/polinazolotukhina/SImple-to-do.git
+
+**Go to the folder **. cd SImple-to-do
+
+**Install **. npm install
+
+**Run **. npm start -s
