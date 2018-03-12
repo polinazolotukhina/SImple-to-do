@@ -13,3 +13,7 @@
 **Install **. npm install
 
 **Run **. npm start -s
+
+
+![Alt text](
+https://github.com/polinazolotukhina/SImple-to-do/blob/master/Screen%20Shot%202018-01-30%20at%207.18.11%20PM.png)
